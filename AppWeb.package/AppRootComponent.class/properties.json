@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "CristianBarbaro 5/30/2019 12:24",
+	"super" : "WAComponent",
+	"category" : "AppWeb",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AppRootComponent",
+	"type" : "normal"
+}
