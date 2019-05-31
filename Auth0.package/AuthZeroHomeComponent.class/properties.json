@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "Casco 5/30/2019 16:52",
+	"super" : "WAComponent",
+	"category" : "Auth0",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"userName",
+		"password"
+	],
+	"name" : "AuthZeroHomeComponent",
+	"type" : "normal"
+}

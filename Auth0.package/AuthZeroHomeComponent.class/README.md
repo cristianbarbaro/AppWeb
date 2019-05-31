@@ -1,0 +1,1 @@
+WAAdmin register: AuthZeroHomeComponent asApplicationAt: 'authZero'
